@@ -1,4 +1,7 @@
-D:\Angular2Practice\02\02\obj\Debug\02.csprojResolveAssemblyReference.cache
+D:\Angular2Practice\02\02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular2Practice\02\02\bin\roslyn\System.Threading.Thread.dll
+D:\Angular2Practice\02\02\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Angular2Practice\02\02\bin\roslyn\System.Xml.XPath.dll
 D:\Angular2Practice\02\02\bin\02.dll.config
 D:\Angular2Practice\02\02\bin\02.dll
 D:\Angular2Practice\02\02\bin\02.pdb
@@ -9,7 +12,6 @@ D:\Angular2Practice\02\02\bin\roslyn\csi.exe
 D:\Angular2Practice\02\02\bin\roslyn\csi.exe.config
 D:\Angular2Practice\02\02\bin\roslyn\csi.rsp
 D:\Angular2Practice\02\02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Angular2Practice\02\02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 D:\Angular2Practice\02\02\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 D:\Angular2Practice\02\02\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\Angular2Practice\02\02\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
@@ -39,11 +41,8 @@ D:\Angular2Practice\02\02\bin\roslyn\System.Security.Cryptography.Primitives.dll
 D:\Angular2Practice\02\02\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
 D:\Angular2Practice\02\02\bin\roslyn\System.Security.Principal.Windows.dll
 D:\Angular2Practice\02\02\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\Angular2Practice\02\02\bin\roslyn\System.Threading.Thread.dll
 D:\Angular2Practice\02\02\bin\roslyn\System.ValueTuple.dll
-D:\Angular2Practice\02\02\bin\roslyn\System.Xml.ReaderWriter.dll
 D:\Angular2Practice\02\02\bin\roslyn\System.Xml.XmlDocument.dll
-D:\Angular2Practice\02\02\bin\roslyn\System.Xml.XPath.dll
 D:\Angular2Practice\02\02\bin\roslyn\System.Xml.XPath.XDocument.dll
 D:\Angular2Practice\02\02\bin\roslyn\vbc.exe
 D:\Angular2Practice\02\02\bin\roslyn\vbc.exe.config

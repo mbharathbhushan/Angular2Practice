@@ -72,6 +72,7 @@
     <Content Include="src\app\app.component.js" />
     <Content Include="src\app\app.component.spec.js" />
     <Content Include="src\app\app.module.js" />
+    <Content Include="src\app\employee\employee.component.css" />
     <Content Include="src\app\employee\employee.component.html" />
     <Content Include="src\app\employee\employee.component.js" />
     <Content Include="src\favicon.ico" />

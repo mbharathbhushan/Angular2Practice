@@ -6,7 +6,7 @@
         styleUrls: ['app/employee/employee.component.css']
     })
 export class EmployeeComponent {
-    
+    columnSpan: number = 2;
     firstName: string = 'Bharath';
     lastName: string = 'Mangalpally';
     gender: string = 'male';

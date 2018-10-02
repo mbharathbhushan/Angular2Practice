@@ -1,7 +1,12 @@
 ﻿<table>
     <thead>
         <tr>
-            <th colspan="2">
+
+            <!--<th colspan="{{columnSpan}}">--> <!--Will Fail-->
+            <!--<th [colspan]=columnSpan>--> <!--Will Fail-->
+
+                <!--<th attr.colspan="{{columnSpan}}">--> <!--Will work-->
+            <th [attr.colspan]=columnSpan>
                 Employee Details
             </th>
         </tr>

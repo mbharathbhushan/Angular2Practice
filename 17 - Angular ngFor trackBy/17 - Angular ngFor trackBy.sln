@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 - Angular ngFor trackBy", "17 - Angular ngFor trackBy\17 - Angular ngFor trackBy.csproj", "{4A501F47-3EB2-4CAA-B23C-DE095DC5FD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A501F47-3EB2-4CAA-B23C-DE095DC5FD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A501F47-3EB2-4CAA-B23C-DE095DC5FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A501F47-3EB2-4CAA-B23C-DE095DC5FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A501F47-3EB2-4CAA-B23C-DE095DC5FD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A59CB9F2-0489-41B8-8CA6-248C38DCFCEF}
+	EndGlobalSection
+EndGlobal

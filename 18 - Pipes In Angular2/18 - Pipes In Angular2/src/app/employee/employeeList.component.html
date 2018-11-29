@@ -18,7 +18,7 @@
             <td>{{empl.code| uppercase}}</td>
             <td>{{empl.name }}</td>
             <td>{{empl.gender}}</td>
-            <td>{{empl.annualSalary}}</td>
+            <td>{{empl.annualSalary| currency:'INR':true:'1.3-3'}}</td>
             <td>{{empl.dateOfBirth | date:'fullDate' | uppercase}}</td>
             <td>{{i}}</td>
             <td>{{isFirst}}</td>

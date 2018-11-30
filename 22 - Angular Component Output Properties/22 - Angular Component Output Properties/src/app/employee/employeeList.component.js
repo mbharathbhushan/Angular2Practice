@@ -12,6 +12,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var EmployeeListComponent = /** @class */ (function () {
     function EmployeeListComponent() {
+        this.selectedRadioButtonValue = "All";
         this.employees = [
             {
                 code: 'emp101', name: 'Tom', gender: 'Male',
@@ -31,6 +32,9 @@ var EmployeeListComponent = /** @class */ (function () {
             },
         ];
     }
+    EmployeeListComponent.prototype.onEmployeeCountRadioButtonChanged = function (selectedValue) {
+        this.selectedRadioButtonValue = selectedValue;
+    };
     EmployeeListComponent.prototype.refreshEmployees = function () {
         this.employees = [
             {

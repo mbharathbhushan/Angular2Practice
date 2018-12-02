@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 - Interfaces In Angular2", "23 - Interfaces In Angular2\23 - Interfaces In Angular2.csproj", "{7218DD74-5D6C-470C-A6C7-286B8080DB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7218DD74-5D6C-470C-A6C7-286B8080DB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7218DD74-5D6C-470C-A6C7-286B8080DB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7218DD74-5D6C-470C-A6C7-286B8080DB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7218DD74-5D6C-470C-A6C7-286B8080DB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEB446D-FD16-4E7B-8EAB-F49382FB4D71}
+	EndGlobalSection
+EndGlobal

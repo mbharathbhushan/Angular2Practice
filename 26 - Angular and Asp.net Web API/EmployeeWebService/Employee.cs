@@ -14,10 +14,10 @@ namespace EmployeeWebService
     
     public partial class Employee
     {
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string Salary { get; set; }
-        public string Gender { get; set; }
-        public string LastName { get; set; }
+        public string code { get; set; }
+        public string name { get; set; }
+        public string gender { get; set; }
+        public Nullable<decimal> annualSalary { get; set; }
+        public string dateOfBirth { get; set; }
     }
 }

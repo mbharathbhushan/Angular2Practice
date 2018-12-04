@@ -13,10 +13,10 @@ namespace EmployeeWebService
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class EmployeeDBEntities : DbContext
+    public partial class EmployeeDB2Entities : DbContext
     {
-        public EmployeeDBEntities()
-            : base("name=EmployeeDBEntities")
+        public EmployeeDB2Entities()
+            : base("name=EmployeeDB2Entities")
         {
         }
     

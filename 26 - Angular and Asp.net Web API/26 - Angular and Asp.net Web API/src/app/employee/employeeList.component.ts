@@ -28,7 +28,7 @@ export class EmployeeListComponent implements OnInit {
         this.employees.push(
 
             {
-                id: 5, code: 'emp105', name: 'Maanvi', gender: 'Female',
+                 code: 'emp105', name: 'Maanvi', gender: 'Female',
                 annualSalary: 6500.826, dateOfBirth: '10/14/1981'
             }
         );

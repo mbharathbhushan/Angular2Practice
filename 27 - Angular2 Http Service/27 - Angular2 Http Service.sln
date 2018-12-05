@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 - Angular2 Http Service", "27 - Angular2 Http Service\27 - Angular2 Http Service.csproj", "{0D713E91-D31D-4E56-8F69-C62B4B8F9779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWebService", "EmployeeWebService\EmployeeWebService.csproj", "{A0DF5FEB-5EF0-4826-9AE0-68D042FDB445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D713E91-D31D-4E56-8F69-C62B4B8F9779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D713E91-D31D-4E56-8F69-C62B4B8F9779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D713E91-D31D-4E56-8F69-C62B4B8F9779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D713E91-D31D-4E56-8F69-C62B4B8F9779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DF5FEB-5EF0-4826-9AE0-68D042FDB445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DF5FEB-5EF0-4826-9AE0-68D042FDB445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DF5FEB-5EF0-4826-9AE0-68D042FDB445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DF5FEB-5EF0-4826-9AE0-68D042FDB445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B371A98B-8E8E-482A-A077-92EAE0560E59}
+	EndGlobalSection
+EndGlobal

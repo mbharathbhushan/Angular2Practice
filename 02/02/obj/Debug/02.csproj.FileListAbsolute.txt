@@ -55,3 +55,4 @@ D:\Angular2Practice\02\02\obj\Debug\02.csproj.CoreCompileInputs.cache
 D:\Angular2Practice\02\02\obj\Debug\02.csproj.CopyComplete
 D:\Angular2Practice\02\02\obj\Debug\02.dll
 D:\Angular2Practice\02\02\obj\Debug\02.pdb
+D:\Angular2Practice\02\02\obj\Debug\02.csprojAssemblyReference.cache
